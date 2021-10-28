@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sthautsab
+- 👋 Hi, I’m Utsab Shrestha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate 
